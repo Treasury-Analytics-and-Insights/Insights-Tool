@@ -1,0 +1,419 @@
+.cssClass li {
+    list-style-type: disc;
+    list-style-position: inside;
+    text-indent: -1em;
+    padding-left: 1em;
+}
+
+body {
+   min-width: 800px;
+}
+
+.row {
+   margin-right: 0px;
+   margin-left: 0px;
+}
+div.row-odd {
+   background-color: #FCFCFC;
+}
+div.row-even {
+   background-color: #EAEAEA;
+}
+
+h3.input-header {
+   border: 1px solid #D3D3D3;
+   background: #E6E6E6;
+   padding-top: 0px;
+   padding-left: 4px;
+	font-size: 110%;
+   line-height: 1.5;
+}
+h3.tabTitle {
+   text-align: center;
+   color: #4D4D4D;
+}
+p.tabDesc {
+   text-align: center;
+   padding-left: 4em;
+   padding-right: 4em;
+}
+div.tabTitlePanel-end {
+   background-image: url("breadcrumb-bg.png");
+   background-repeat: repeat-x;
+   height: 8px;
+}
+
+div.ggvis-title {
+   width: 100%;
+   text-align: center;
+   font-size: small;
+   font-weight: bold;
+   padding-left: 20%;
+   padding-right: 20%;
+}
+
+div.float {
+   float: left;
+   padding-bottom: 10px;
+}
+
+div.divwell {
+   margin-top: -8px;
+   padding-right: 20px;
+   width: 280px;
+}
+div.divfull {
+   width: 100%;
+}
+div.divflex {
+   width: 100%;
+}
+@media (min-width: 1400px){
+   div.divflex {
+      width: 50%;
+   }
+}
+div.align-well {
+   margin-left: 280px;
+}
+
+div.actcat {
+   width: 390px;
+}
+
+div.checkboxcombo div.checkboxcombo-all{
+   margin-top: 0px;
+   margin-bottom: 10px;
+}
+div.checkboxcombo div.shiny-options-group{
+   max-height: 230px;
+   overflow-y: auto;
+}
+
+ul.datasource {
+   margin-top: 10px;
+   font-style: italic;
+   list-style-type: none;
+}
+
+div.divplot {
+   width: -moz-calc(100% - 280px);
+   width: -webkit-calc(100% - 280px);
+   width: calc(100% - 280px);
+}
+div.divplotduo {
+   width: -moz-calc(100% - 560px);
+   width: -webkit-calc(100% - 560px);
+   width: calc(100% - 560px);
+}
+div.divplotduo-label {
+   height: 500px;
+   padding-right: 0px;
+}
+div.divplothalf {
+   width: 50%;
+}
+div.divplothalf-label {
+   width: 100%;
+   height: 4em;
+   padding-top: 1em;
+   padding-left: 1em;
+}
+div.divplothalf-label-large {
+   width: 100%;
+   height: 7em;
+   padding-top: 1em;
+   padding-left: 1em;
+}
+div.divplothalf-label > span {
+   padding-right: 1em;
+}
+div.divplothalff {
+   width: 50%;
+}
+div.divplothalff-label {
+   width: 100%;
+   height: 3em;
+   border-top: 1px solid #666;
+}
+div.divplothalff-label > span {
+   padding-right: 1em;
+}
+div.divwell div.dylegend {
+   margin-right: -18px;
+}
+div.dylegend > span.highlight {
+   font-size: larger;
+   font-weight: bold;
+}
+div.divwell div.dylegend > span.highlight {
+   padding-left: 0.5em;
+   border-left: 0.5em solid #666;
+}
+div.dygraph-label {
+   font-size: small;
+}
+
+div.shiny-datatable-output td:first-child, div.shiny-datatable-output th:first-child {
+   text-align: left;
+}
+div.shiny-datatable-output td, div.shiny-datatable-output th {
+   text-align: right;
+}
+
+div.dydownload-group ul {
+   margin-left: -20px;
+}
+
+.ui-tooltip {
+	padding: 4px;
+	position: absolute;
+	z-index: 9999;
+	max-width: 300px;
+	-webkit-box-shadow: 0 0 5px #aaa;
+	box-shadow: 0 0 5px #aaa;
+   font-size: smaller;
+}
+
+div.highcharts-tooltip table td:first-child {
+   padding-left: 0em;
+   text-align: left;
+}
+
+div.highcharts-tooltip table td {
+   padding-left: 1em;
+   text-align: right;
+}
+
+/* override shiny's jquery-ui styles for accordion */
+.ui-widget {
+   font-family: inherit;
+   font-size: inherit;
+}
+.ui-widget h3.ui-accordion-header {
+   padding-top: 0px;
+   margin-top: 0px;
+   border: 1px solid #D3D3D3;
+   background: #E6E6E6;
+   color: inherit;
+}
+.ui-widget div.ui-widget-content {
+   border: none;
+   background: none;
+   color: inherit;
+}
+.ui-widget select {
+   font-family: inherit;
+   font-size: inherit;
+}
+/* add missing jquery-ui styles for accordion */
+.ui-accordion .ui-accordion-header {
+	display: block;
+	cursor: pointer;
+	position: relative;
+	font-size: 90%;
+   line-height: 1.5;
+}
+.ui-accordion .ui-accordion-icons {
+	padding-left: 2.2em;
+}
+.ui-accordion .ui-accordion-header .ui-accordion-header-icon {
+	position: absolute;
+	left: .5em;
+	top: 50%;
+	margin-top: -8px;
+}
+
+/* Front tab styles */
+div.frontp {
+   max-width: 1000px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+span.warning {
+   font-weight: bold;
+   color: #FF6900;
+}
+span.defword {
+   font-weight: bold;
+   color: #006272;
+}
+
+div.exdiv.ui-accordion .ui-accordion-header {
+	font-size: 100%;
+}
+span.extab {
+   font-weight: bold;
+   color: #006272;
+}
+span.exans {
+   font-weight: bold;
+   color: #00B5E2;
+}
+
+div.frontexcon {
+   padding: 10px;
+   background-color: #FAFAFA;
+}
+div.frontdycon {
+   height: 620px;
+}
+div.frontdycon form.well {
+   height: 250px;
+}
+
+div.front-banner {
+   overflow: visible;
+   height: 342px;
+}
+div.front-banner > div.imgcon {
+   background: url("bach-pano-banner-1920.jpg") center no-repeat;
+   position: absolute;
+   margin-top: -20px;
+   left: 0;
+   z-index: -1;
+   width: 100%;
+   height: inherit;
+}
+div.front-banner > div.hcon {
+   background-color: rgba(0, 0, 0, 0.5);
+   width: 410px;
+   padding: 10px 20px 10px 20px;
+}
+div.front-banner > div.hcon > h1 {
+   font-weight: 200;
+   color: white;
+   margin-bottom: 0px;
+   padding-top: 0px
+}
+
+div.box-con {
+   height: 130px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+
+div.box {
+   height: 100%;
+   padding: 9px;
+   padding-top: 15px;
+}
+
+div.box p {
+   margin: 0px;
+}
+
+div.box-more {
+   float: left;
+   width: 33%;
+   color: #3F3F3F;
+   background-color: #D6E8F7;
+   border-top: 2px solid transparent;
+}
+div.box-more:hover {
+   background-color: #3F3F3F;
+   border-image: linear-gradient(to right, #157BA3 0%, #96D602 100%) 1 1 stretch;
+}
+div.box-more:hover > p{
+   color: #FFFFFF;
+}
+
+div.box-rear {
+   float: right;
+   width: 64%;
+   color: #3F3F3F;
+   background-color: #F2F2F2;
+   border-top: 2px solid transparent;
+}
+div.box-rear:hover {
+   color: #FFFFFF;
+   background-color: #3F3F3F;
+   border-image: linear-gradient(to right, #157BA3 0%, #96D602 100%) 1 1 stretch;
+}
+
+.bold {
+   font-weight: bold;
+}
+
+img.rear-preview {
+   float: right;
+   height: 100px;
+   margin-left: 2em;
+}
+
+div.box-timeout {
+   border: 1px solid #F2F2F2;
+}
+
+/*
+   Navbar styles
+*/
+/* Fix width (manually adjusted)
+   Looks better than the automatic widths if fixed correctly. */
+.navbar-default > .container {
+   width: 740px;
+}
+
+/* .navbar-nav.navbar-center {
+    position: absolute;
+    left: 1000%;
+    transform: translatex(-50%);
+  }
+
+
+/* Hide title and arrows */
+/*.navbar-header, .navbar-default .caret {
+   display: none;
+}*/
+
+/* Set fonts */
+.navbar-default .navbar-nav > li > a, .dropdown-menu > li > a {
+   font-family: 'Gustan', Helvetica, Arial, sans-serif;
+   font-size: 20px;
+   font-weight: 200;
+   color: #666666;
+}
+.navbar-default .navbar-nav > li.active > a, .dropdown-menu > li.active > a {
+   font-weight: 400;
+}
+
+/* Navbar background */
+.navbar-default {
+   background-color: transparent;
+   border-color: transparent;
+}
+/* .navbar-default:hover {
+   border-color: #e7e7e7;
+} */
+
+/* Top-level nav buttons */
+.navbar-default .navbar-nav > li {
+   border-top: 2px solid transparent;
+}
+.navbar-default .navbar-nav > li:hover {
+   border-image: linear-gradient(to right, #157BA3 0%, #96D602 100%) 1 1 stretch;
+   border-image-width: 1 0 0 0;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+   background-color: transparent;
+   text-decoration: underline;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+   background-color: transparent;
+}
+
+/* Drop-down navigation box */
+.dropdown-menu {
+   background-color: #e6e6e6;
+}
+/* Drop-down navigation buttons */
+.dropdown-menu > li > a:hover {
+   color: inherit;
+   background-color: inherit;
+   text-decoration: underline;
+}
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+   color: inherit;
+   background-color: inherit;
+}

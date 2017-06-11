@@ -1,0 +1,58 @@
+Indicators ,Descriptions,Shortened,Period,Education,Employment,FLAG_KEEP
+year,"Calendar year covered (2013, 2014, 2015)",Year,1,1,1,1
+schter_1519,In education when aged 15 to 19 (0=All 15-19 year olds / 1=Only 15-19 year olds at school or tertiary),In education,1,1,0,1
+ben_1524,On benefit when aged 15 to 24 (0=All 15-24 year olds / 1=Only 15-24 year olds on benefit),On Benefit,1,0,1,1
+count,rounded and supressed ( <12)  counts of people in each group,Total,1,1,1,1
+count,rounded and supressed ( <12)  counts of people in each group,Total,5,1,1,1
+edu_alt_1yr,rounded and supressed ( <12)  counts of people accessing alternative education services in the last year,Alternative Education Services,1,1,0,1
+edu_truatt_1yr,rounded and supressed ( <12)  counts of people accessing truancy (non-attendance) services in the last year,Truancy (Non-Attendance) Services,1,1,0,1
+edu_truenr_1yr,rounded and supressed ( <12)  counts of people accessing truancy (non-enrolment) services in the last year,Truancy (Non-Enrolment) Services,1,1,0,1
+edu_sed_1yr,rounded and supressed ( <12)  counts of people accessing special education services in the last year,Special Education Services,1,1,0,1
+edu_esol_1yr,rounded and supressed ( <12)  counts of people accessing ESOL services in the last year,Esol Services,1,1,0,0
+edu_hlth_1yr,rounded and supressed ( <12)  counts of people accessing health checks in the last year,Health Checks,1,1,0,0
+edu_gway_1yr,rounded and supressed ( <12)  counts of people accessing gateway service in the last year,Gateway Programme,1,1,0,1
+edu_ster_1yr,rounded and supressed ( <12)  counts of people accessing secondary tertiary programmes in the last year,Secondary Tertiary Programmes,1,1,0,1
+edu_irf_1yr,rounded and supressed ( <12)  counts of people accessing interim response fund services in the last year,Interim Response Fund Services,1,1,0,1
+edu_home_1yr,rounded and supressed ( <12)  counts of people accessing home schooling in the last year,Home Schooling,1,1,0,0
+edu_rr_1yr,rounded and supressed ( <12)  counts of people accessing reading recovery services in the last year,Reading Recovery Services,1,1,0,1
+edu_rtlb_1yr,rounded and supressed ( <12)  counts of people accessing resource teachers: learning and behaviour services in the last year,Resource Teachers: Learning And Behaviour Services,1,1,0,1
+edu_it_1yr,rounded and supressed ( <12)  counts of people accessing industry training in the last year,Industry Training,1,1,0,1
+edu_ygff_1yr,rounded and supressed ( <12)  counts of people accessing youth guarantee: fees-free in the last year,Youth Guarantee: Fees-Free,1,1,0,1
+edu_sal_1yr,rounded and supressed ( <12)  counts of people accessing student allowances in the last year,Student Allowance,1,1,0,1
+edu_corr_1yr,rounded and supressed ( <12)  counts of people accessing correspondence school in the last year,Correspondence School,1,1,0,1
+edu_sed2_1yr,rounded and supressed ( <12)  counts of people accessing special education services (restricted measure) in the last year,Special Education Services (Restricted Measure),1,1,0,0
+edu_alt_5yr,rounded and supressed ( <12)  counts of people accessing alternative education services in the last 5 years,Alternative Education Services,5,1,0,1
+edu_truatt_5yr,rounded and supressed ( <12)  counts of people accessing truancy (non-attendance) services in the last 5 years,Truancy (Non-Attendance) Services,5,1,0,1
+edu_truenr_5yr,rounded and supressed ( <12)  counts of people accessing truancy (non-enrolment) services in the last 5 years,Truancy (Non-Enrolment) Services,5,1,0,1
+edu_sed_5yr,rounded and supressed ( <12)  counts of people accessing special education services in the last 5 years,Special Education Services,5,1,0,1
+edu_esol_5yr,rounded and supressed ( <12)  counts of people accessing ESOL services in the last 5 years,Esol Services,5,1,0,0
+edu_hlth_5yr,rounded and supressed ( <12)  counts of people accessing health checks in the last 5 years,Health Checks,5,1,0,0
+edu_gway_5yr,rounded and supressed ( <12)  counts of people accessing gateway programme in the last 5 years,Gateway Programme,5,1,0,1
+edu_ster_5yr,rounded and supressed ( <12)  counts of people accessing secondary tertiary programmes in the last 5 years,Secondary Tertiary Programmes,5,1,0,1
+edu_irf_5yr,rounded and supressed ( <12)  counts of people accessing interim response fund services in the last 5 years,Interim Response Fund Services,5,1,0,1
+edu_home_5yr,rounded and supressed ( <12)  counts of people accessing home schooling in the last 5 years,Home Schooling,5,1,0,0
+edu_rr_5yr,rounded and supressed ( <12)  counts of people accessing reading recovery services in the last 5 years,Reading Recovery Services,5,1,0,1
+edu_rtlb_5yr,rounded and supressed ( <12)  counts of people accessing resource teachers: learning and behaviour services in the last 5 years,Resource Teachers: Learning And Behaviour Services,5,1,0,1
+edu_it_5yr,rounded and supressed ( <12)  counts of people accessing industry training in the last 5 years,Industry Training,5,1,0,1
+edu_ygff_5yr,rounded and supressed ( <12)  counts of people accessing youth guarantee: fees-free in the last 5 years,Youth Guarantee: Fees-Free,5,1,0,1
+edu_sal_5yr,rounded and supressed ( <12)  counts of people accessing student allowances in the last 5 years,Student Allowance,5,1,0,1
+edu_corr_5yr,rounded and supressed ( <12)  counts of people accessing correspondence school in the last 5 years,Correspondence School,5,1,0,1
+edu_sed2_5yr,rounded and supressed ( <12)  counts of people accessing special education services (restricted measure) in the last 5 years,Special Education Services (Restricted Measure),5,1,0,0
+emp_info_1yr,rounded and supressed ( <12)  counts of people accessing information services in the last year,Information Services,1,0,1,1
+emp_place_1yr,rounded and supressed ( <12)  counts of people accessing placement services in the last year,Placement Services,1,0,1,1
+emp_skill_1yr,rounded and supressed ( <12)  counts of people accessing skills training in the last year,Skills Training,1,0,1,1
+emp_ws_1yr,rounded and supressed ( <12)  counts of people accessing wage subsidies in the last year,Wage Subsidies,1,0,1,1
+emp_other_1yr,rounded and supressed ( <12)  counts of people accessing other employment services in the last year,Other Employment Services,1,0,1,1
+emp_ysneetyts_1yr,rounded and supressed ( <12)  counts of people accessing Youth Service: NEET or Youth Transition Service in the last year,Youth Service: NEET Or Youth Transition Service,1,0,1,1
+emp_ysypypp_1yr,rounded and supressed ( <12)  counts of people accessing Youth service: Youth Payment/Young Parent Payment in the last year,Youth Service: Youth Payment/Young Parent Payment,1,0,1,1
+emp_ys_1yr,rounded and supressed ( <12)  counts of people accessing youth service or youth transition service in the last year,Youth Service Or Youth Transition Service,1,0,1,0
+emp_1yr,rounded and supressed ( <12)  counts of people accessing any employment service in the last year,Any Employment Service,1,0,1,1
+emp_info_5yr,rounded and supressed ( <12)  counts of people accessing information services in the last 5 years,Information Services,5,0,1,1
+emp_place_5yr,rounded and supressed ( <12)  counts of people accessing placement services in the last 5 years,Placement Services,5,0,1,1
+emp_skill_5yr,rounded and supressed ( <12)  counts of people accessing skills training in the last 5 years,Skills Training,5,0,1,1
+emp_ws_5yr,rounded and supressed ( <12)  counts of people accessing wage subsidies in the last 5 years,Wage Subsidies,5,0,1,1
+emp_other_5yr,rounded and supressed ( <12)  counts of people accessing other employment services in the last 5 years,Other Employment Services,5,0,1,1
+emp_ysneetyts_5yr,rounded and supressed ( <12)  counts of people accessing Youth Service: NEET or Youth Transition Service in the last 5 years,Youth Service: NEET Or Youth Transition Service,5,0,1,1
+emp_ysypypp_5yr,rounded and supressed ( <12)  counts of people accessing Youth service: Youth Payment/Young Parent Payment in the last 5 years,Youth Service: Youth Payment/Young Parent Payment,5,0,1,1
+emp_ys_5yr,rounded and supressed ( <12)  counts of people accessing youth service or youth transition service in the last 5 years,Youth Service Or Youth Transition Service,5,0,1,0
+emp_5yr,rounded and supressed ( <12)  counts of people accessing any employment service in the last 5 years,Any Employment Service,5,0,1,1

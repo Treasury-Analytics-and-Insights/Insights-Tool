@@ -1,0 +1,21 @@
+AGE,RISK,RISK_DESC,TOTAL_COLUMN,DISPLAY_FLAG
+06-14,1,Fewer than 2 Risk Indicators,1,0
+06-14,2,2+ Risk Indicators,1,1
+06-14,3,3+ Risk Indicators,0,1
+06-14,4,All 4 Risk Indicators,0,1
+15-19,0,Not in a target population risk group,1,0
+15-19,1,"Teenagers with health, disability issues or special needs",0,1
+15-19,2,Mental health service users with stand-down or CYF history,0,1
+15-19,3,Teenage girls supported by benefits,0,1
+15-19,4,Teenage boys with Youth Justice or Corrections history,0,1
+15-19,5,Experienced significant childhood disadvantage,0,1
+15-19,6,Any target population,1,1
+15-19,7,2+ risk indicators at age 15,0,1
+20-24,0,Not in a target population risk group,1,0
+20-24,1,Young offenders with custodial sentence,0,1
+20-24,2,Young offenders with community sentence and CYF history,0,1
+20-24,3,Jobseekers in poor health with CYF history,0,1
+20-24,4,Sole parents not in full-time employment with CYF history,0,1
+20-24,5,Long-term disability beneficiaries,0,1
+20-24,6,Any target population,1,1
+20-24,7,2+ risk indicators at age 15,0,1

@@ -1,0 +1,96 @@
+/* Set the menu tabs line with header and icon */
+/* .navbar-nav>li>a { */
+    /* padding-top: 25px; */
+/* } */
+
+/* Set fonts */
+.navbar-default .navbar-nav > li > a,
+ .dropdown-menu > li > a {
+   font-family: 'Gustan', Helvetica, Arial, sans-serif;
+   font-size: 15px;
+   font-weight: 200;
+   color: black;
+}
+
+.navbar-default .navbar-nav > li.active > a,
+ .dropdown-menu > li.active > a {
+   font-weight: 600;
+   color: black;
+}
+
+.navbar {
+    position: relative;
+    /* min-height: 50px; */
+    border: 1px solid transparent;
+}
+
+/* Top-level nav buttons */
+.navbar-default {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav > li {
+   border-bottom: 4px solid transparent;
+}
+
+/* .navbar-default .navbar-nav > li:hover, .navbar-default .navbar-nav > li.active { */
+   /* border-image: linear-gradient(to right, #000000 0%, #000000 100%) 1 1 stretch; */
+   /* border-image-width: 1 0 0 0; */
+/* } */
+
+.navbar-default .navbar-nav > li:nth-child(2){
+   /* border-image: linear-gradient(to right, #00BCE2 0%, #00BCE2 100%) 1 1 stretch; */
+   border: solid;
+   border-width: 0 0 5px 0;
+   border-color: #00BCE2;
+}
+
+.navbar-default .navbar-nav > li:nth-child(3){
+   /* border-image: linear-gradient(to right, #24994B 0%, #24994B 100%) 1 1 stretch; */
+   border: solid;
+   border-width: 0 0 5px 0;
+   border-color: #24994B;
+}
+
+
+.navbar-default .navbar-nav > li:nth-child(4){
+   /* border-image: linear-gradient(to right, #F1A42D 0%, #F1A42D 100%) 1 1 stretch; */
+   border: solid;
+   border-width: 0 0 5px 0;
+   border-color: #F1A42D;
+}
+
+.navbar-default .navbar-nav > li:nth-child(5){
+   /* border-image: linear-gradient(to right, #F1A42D 0%, #F1A42D 100%) 1 1 stretch; */
+   border: solid;
+   border-width: 0 0 5px 0;
+   border-color: #525990;
+}
+
+.navbar-default .navbar-nav > .open > a,
+ .navbar-default .navbar-nav > .open > a:focus,
+ .navbar-default .navbar-nav > .open > a:hover {
+   background-color: transparent;
+   text-decoration: underline;
+   color: grey;
+}
+
+.navbar-default .navbar-nav > .active > a,
+ .navbar-default .navbar-nav > .active > a:focus,
+ .navbar-default .navbar-nav > .active > a:hover {
+   background-color: transparent;
+   color: grey;
+}
+
+/* Text message on top */
+h1 > span {
+    color: black;
+    font: bold 24px/45px Helvetica, Sans-Serif;
+    letter-spacing: -1px;
+    padding: 10px;
+    position: absolute;
+    top: 20px;
+    right: 50px;
+    width: 100%;
+    text-align: center;
+}

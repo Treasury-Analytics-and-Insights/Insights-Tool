@@ -1,0 +1,9 @@
+Age group,Risk group,N,Further contact with CYF by age 21 (%),Contact with Youth Justice by age 21 (%),Did not achieve a level 2 qualification by age 21 (%),Used mental health services or pharms by age 21 (%),Received a community or custodial sentence aged 25-34 (%),Spent more than 5 years receiving benefit aged 25-34 (%),Average projected costs by age 35
+0 to 5,Fewer than 2 risk factors,"306,303",12.39,2.54,22.86,16.22,6.41,6.64,"$45,637.14"
+0 to 5,2 or more risk factors,"46,317",58.82,14.13,49.14,26.05,20.82,20.86,"$184,455.52"
+0 to 5,3 or more risk factors,"15,534",75.29,18.47,55.08,30.34,25.7,24.56,"$228,311.60"
+0 to 5,4 risk factors,"2,364",87.11,22.04,59.62,32.34,28.03,28.33,"$265,344.44"
+6 to 14,Fewer than 2 risk factors,"456,159",11.79,2.63,23.04,17,6.21,6.37,"$46,543.80"
+6 to 14,2 or more risk factors,"72,018",60.08,17.23,54.63,28.46,22.8,22.74,"$205,014.07"
+6 to 14,3 or more risk factors,"24,936",75.1,23.2,61.11,32.25,27.72,27.36,"$250,269.97"
+6 to 14,4 risk factors,"3,903",83.68,26.69,66.04,34.27,30.32,29,"$275,339.84"

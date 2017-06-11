@@ -1,0 +1,26 @@
+variable,Full_Description,Shortened
+all,rounded and supressed ( <6)  counts of people in each group,Number of People
+pp_sch,rounded and supressed ( <6)  counts of peoplemonths who were enrolled in schools in 2015,In School
+pp_ter,rounded and supressed ( <6)  counts of peoplemonths who were enrolled  at tertiary institutions  in 2015,In Tertiary Education
+pp_sempIT,rounded and supressed ( <6)  counts of peoplemonths who were substantially employed with Industry training in 2015,In Substantial Employment (with industry training)
+pp_semp,rounded and supressed ( <6)  counts of peoplemonths who were substantially employed without  Industry training in 2015,In Substantial Employment (without industry training)
+pp_lemp,rounded and supressed ( <6)  counts of peoplemonths who were employed part time or part month  in 2015,In Limited Employment
+pp_cust,rounded and supressed ( <6)  counts of peoplemonths who were in custody in 2015,In Custody
+pp_lt6_neet,rounded and supressed ( <6)  counts of peoplemonths who were long term neets (6 months or more) in 2015,Long term neets (6+ Months)
+pp_st6_neet,rounded and supressed ( <6)  counts of peoplemonths who were short  term neets (less than 6 months) in 2015,Short term neets (<6 Months)
+pp_lt3_neet,rounded and supressed ( <6)  counts of peoplemonths who were long term neets (3 months or more) in 2015,Long term neets (3+ Months)
+pp_st3_neet,rounded and supressed ( <6)  counts of peoplemonths who were short  term neets (less than 3 months) in 2015,Short term neets (<3 Months)
+pp1_ben,rounded and supressed ( <6)  counts of peoplemonths who were on benefit in 2015,On Benefit
+pp1_ws_empl,rounded and supressed ( <6)  counts of peoplemonths who were earning wages and salaries in 2015,In Employment
+pp2_sch,proportions  of peoplemonths who were enrolled in schools in 2015,In School
+pp2_ter,proportions  of peoplemonths who were enrolled  at tertiary institutions  in 2015,In Tertiary Education
+pp2_sempIT,proportions  of peoplemonths who were substantially employed with Industry training in 2015,In Substantial Employment (with industry training)
+pp2_semp,proportions  of peoplemonths who were substantially employed without  Industry training in 2015,In Substantial Employment (without industry training)
+pp2_lemp,proportions  of peoplemonths who were employed part time or part month  in 2015,In Limited Employment
+pp2_cust,proportions  of peoplemonths who were in custody in 2015,In Custody
+pp2_lt6_neet,proportions  of peoplemonths who were long term neets (6 months or more) in 2015,Long term neets (6+ Months)
+pp2_st6_neet,proportions  of peoplemonths who were short  term neets (less than 6 months) in 2015,Short term neets (<6 Months)
+pp2_lt3_neet,proportions  of peoplemonths who were long term neets (3 months or more) in 2015,Long term neets (3+ Months)
+pp2_st3_neet,proportions  of peoplemonths who were short  term neets (less than 3 months) in 2015,Short term neets (<3 Months)
+pp3_ben,proportions  of peoplemonths who were on benefit in 2015,On Benefit
+pp3_ws_empl,proportions  of peoplemonths who were earning wages and salaries in 2015,In Employment

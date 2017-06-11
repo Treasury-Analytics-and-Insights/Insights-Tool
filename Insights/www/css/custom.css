@@ -1,0 +1,313 @@
+#sfy_hl_01 > div:nth-child(1) {
+	background-color: #F1A42D!important;
+	color: #000000!important;
+}
+
+#sfy_hl_01 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#sfy_hl_01 > div > div > p {
+	color: #000000!important;
+}
+
+#sfy_hl_02 > div:nth-child(1) {
+	background-color: #20A3A5!important;
+	color: #000000!important;
+}
+
+#sfy_hl_02 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#sfy_hl_02 > div > div > p {
+	color: #000000!important;
+}
+
+#sfy_hl_03 > div:nth-child(1) {
+	background-color: #00BCE2!important;
+	color: #000000!important;
+}
+
+#sfy_hl_03 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#sfy_hl_03 > div > div > p {
+	color: #000000!important;
+}
+
+#sfy_hl_04 > div:nth-child(1) {
+	background-color: #20A3A5!important;
+	color: #000000!important;
+}
+
+#sfy_hl_04 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#sfy_hl_04 > div > div > p {
+	color: #000000!important;
+}
+
+#sfy_hl_05 > div:nth-child(1) {
+	background-color: #20A3A5!important;
+	color: #000000!important;
+}
+
+#sfy_hl_05 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#sfy_hl_05 > div > div > p {
+	color: #000000!important;
+}
+
+
+
+#cyar_hl_01 > div:nth-child(1) {
+	background-color: #00BCE2!important;
+	color: #000000!important;
+}
+
+#cyar_hl_01 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#cyar_hl_01 > div > div > p {
+	color: #000000!important;
+}
+
+#cyar_hl_02 > div:nth-child(1) {
+	background-color: #00BCE2!important;
+	color: #000000!important;
+}
+
+#cyar_hl_02 > div:nth-child(1) > div:nth-child(1) > h3:nth-child(1),
+#cyar_hl_02 > div > div > p {
+	color: #000000!important;
+}
+
+
+
+/* Custom css for slider, input-radio and colour on tag top.  */
+
+/* Samll nav bar colour */
+.nav-tabs-custom > #purple_tabBox > li.active,
+#purple_column > div.col-sm-12 > div {
+  border-top-color: #525990;
+}
+
+.nav-tabs-custom > #green_tabBox > li.active {
+  border-top-color: #24994B;
+}
+
+.nav-tabs-custom > #blue_tabBox > li.active,
+#blue_column > div.col-sm-12 > div {
+  border-top-color: #00BCE2;
+}
+
+.nav-tabs-custom > #orange_tabBox > li.active {
+  border-top-color: #F1A42D;
+}
+
+/* Box with orange style slide bar */
+#orange_box > div:nth-child(1) > span > span.irs-bar {
+    border-top: 1px solid #F1A42D;
+    border-bottom: 1px solid #F1A42D;
+    background: #F1A42D;
+}
+
+#orange_box > div:nth-child(1) > span > span.irs > span.irs-single {
+	background: #F1A42D;
+}
+
+#orange_box > div:nth-child(1) > span > span.irs-bar-edge {
+    border: 1px solid #F1A42D;
+    background: #F1A42D;
+}
+
+/* Box with blue style slide bar */
+#blue_box > div:nth-child(1) > span > span.irs-bar,
+#blue_box > div:nth-child(1) > div > span > span.irs-bar {
+    border-top: 1px solid #00BCE2;
+    border-bottom: 1px solid #00BCE2;
+    background: #00BCE2;
+}
+
+#blue_box > div:nth-child(1) > span > span.irs > span.irs-single,
+#blue_box > div:nth-child(1) > div > span > span.irs > span.irs-single  {
+	background: #00BCE2;
+}
+
+#blue_box > div:nth-child(1) > span > span.irs-bar-edge,
+#blue_box > div:nth-child(1) > div > span > span.irs-bar-edge {
+    border: 1px solid #00BCE2;
+    background: #00BCE2;
+}
+
+/* Box with green style slide bar */
+#green_box > div:nth-child(1) > span > span.irs-bar {
+    border-top: 1px solid #24994B;
+    border-bottom: 1px solid #24994B;
+    background: #24994B;
+}
+
+#green_box > div:nth-child(1) > span > span.irs > span.irs-single {
+	background: #24994B;
+}
+
+#green_box > div:nth-child(1) > span > span.irs-bar-edge {
+    border: 1px solid #24994B;
+    background: #24994B;
+}
+
+/* Box with purple style */
+#purple_box > div:nth-child(1) > span > span.irs-bar,
+#purple_box > div.col-sm-5 > div > span > span.irs-bar {
+    border-top: 1px solid #525990;
+    border-bottom: 1px solid #525990;
+    background: #525990;
+}
+
+#purple_box > div:nth-child(1) > span > span.irs > span.irs-single,
+#purple_box > div.col-sm-5 > div > span > span.irs > span.irs-single {
+	background: #525990;
+}
+
+#purple_box > div:nth-child(1) > span > span.irs-bar-edge,
+#purple_box > div.col-sm-5 > div > span > span.irs-bar-edge {
+    border: 1px solid #525990;
+    background: #525990;
+}
+
+
+/* Orange Radio */
+#sfy_param_period > div > label > input[type="radio"],
+#sfy_map_risk_serv_switch > div > div > label > input[type="radio"] {
+    background-color: #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    margin-right: 15px;
+    position: relative;
+    width: 15px;
+    -webkit-appearance: none;
+}
+#sfy_param_period > div > label > input[type="radio"]:after,
+#sfy_map_risk_serv_switch > div > div > label > input[type="radio"]:after {
+    background-color: #ffffff;
+    border-radius: 25px;
+    content: '';
+    display: block;
+    height: 7px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 7px;
+}
+#sfy_param_period > div > label > input[type="radio"]:checked:after,
+#sfy_map_risk_serv_switch > div > div > label > input[type="radio"]:checked:after {
+    background-color: #F1A42D;
+}
+
+
+/* Green Radio */
+#green_radio > div > div > label > input[type="radio"] {
+    background-color: #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    margin-right: 15px;
+    position: relative;
+    width: 15px;
+    -webkit-appearance: none;
+}
+#green_radio > div > div > label > input[type="radio"]:after {
+    background-color: #ffffff;
+    border-radius: 25px;
+    content: '';
+    display: block;
+    height: 7px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 7px;
+}
+#green_radio > div > div > label > input[type="radio"]:checked:after {
+    background-color: #24994B;
+}
+
+/* CYAR Blue Radio */
+#cyar_param_age > div > label > input[type="radio"],
+#cyar_param_age > div > div > label > input[type="radio"],
+#cyar_param_gender_ind > div > div > label > input[type="radio"],
+#cyar_param_natinal_gender_ind > div > label > input[type="radio"] {
+    background-color: #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    margin-right: 15px;
+    position: relative;
+    width: 15px;
+    -webkit-appearance: none;
+}
+
+#cyar_param_age > div > label > input[type="radio"]:after ,
+#cyar_param_age > div > div > label > input[type="radio"]:after ,
+#cyar_param_gender_ind > div > div > label > input[type="radio"]:after,
+#cyar_param_natinal_gender_ind > div > label > input[type="radio"]:after {
+    background-color: #ffffff;
+    border-radius: 25px;
+    content: '';
+    display: block;
+    height: 7px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 7px;
+}
+
+#cyar_param_age > div > label > input[type="radio"]:checked:after,
+#cyar_param_age > div > div > label > input[type="radio"]:checked:after,
+#cyar_param_gender_ind > div > div > label > input[type="radio"]:checked:after,
+#cyar_param_natinal_gender_ind > div > label > input[type="radio"]:checked:after {
+    background-color: #67BAF0;
+}
+
+
+/* TYO Green Radio */
+#tyo_param_an_risk > div > label > input[type="radio"], 
+#tyo_param_map_risk > div > label > input[type="radio"],
+#tyo_param_map_age_group > div > div > label > input[type="radio"],
+#tyo_param_gender > div > label > input[type="radio"]{
+    background-color: #ddd;
+    border-radius: 10px;
+    cursor: pointer;
+    display: inline-block;
+    height: 15px;
+    margin-right: 15px;
+    position: relative;
+    width: 15px;
+    -webkit-appearance: none;
+}
+#tyo_param_an_risk > div > label > input[type="radio"]:after,
+#tyo_param_map_risk > div > label > input[type="radio"]:after,
+#tyo_param_gender > div > label > input[type="radio"]:after,
+#tyo_param_map_age_group > div > div > label > input[type="radio"]:after {
+    background-color: #ffffff;
+    border-radius: 25px;
+    content: '';
+    display: block;
+    height: 7px;
+    left: 4px;
+    position: relative;
+    top: 4px;
+    width: 7px;
+}
+#tyo_param_an_risk > div > label > input[type="radio"]:checked:after,
+#tyo_param_map_risk > div > label > input[type="radio"]:checked:after,
+#tyo_param_gender > div > label > input[type="radio"]:checked:after,
+#tyo_param_map_age_group > div > div > label > input[type="radio"]:checked:after  {
+    background-color: #24994B;
+}
+
+.modal-lg {
+    width: 95%;
+}
+
+#cyar_risk_circle > img{
+    width: 100%; 
+}
+
+#cyar_risk_circle {
+    width: 100%;
+    height: auto;
+    align-self: center;
+}
+    

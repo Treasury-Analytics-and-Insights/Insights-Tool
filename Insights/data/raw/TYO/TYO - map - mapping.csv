@@ -1,0 +1,26 @@
+variable,TRAC_IND
+pp_sch,In Education
+pp_ter,In Education
+pp_sempIT,In Substantial Employment
+pp_semp,In Substantial Employment
+pp_lemp,NONE
+pp_cust,In Custody
+pp_neet,NEET
+pp_lt6_neet,Long-term NEET
+pp_st6_neet,NONE
+pp_lt3_neet,NONE
+pp_st3_neet,NONE
+pp1_ben,On Benefit
+pp1_ws_empl,In Employment
+pp2_sch,NONE
+pp2_ter,NONE
+pp2_sempIT,NONE
+pp2_semp,NONE
+pp2_lemp,NONE
+pp2_cust,NONE
+pp2_lt6_neet,NONE
+pp2_st6_neet,NONE
+pp2_lt3_neet,NONE
+pp2_st3_neet,NONE
+pp3_ben,NONE
+pp3_ws_empl,NONE

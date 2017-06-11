@@ -1,0 +1,17 @@
+RISK,RISK_DESC
+Fewer than 2 risk factors,Fewer than 2 Risk Indicators
+2 or more risk factors,2+ Risk Indicators
+3 or more risk factors,3+ Risk Indicators
+4 risk factors,All 4 Risk Indicators
+Not in a target population,Not in a target population risk group
+In any target population,In any target population risk group
+Experienced significant childhood disadvantage,Experienced significant childhood disadvantage
+Jobseekers in poor health with CYF history,Jobseekers in poor health with CYF history
+Long-term disability beneficiaries,Long-term disability beneficiaries
+Mental health service users with stand-down or CYF history,Mental health service users with stand-down or CYF history
+Sole parents not in fulltime employment with CYF history,Sole parents not in full-time employment with CYF history
+Teenage boys with Youth Justice or Corrections history,Teenage boys with Youth Justice or Corrections history
+Teenage girls supported by benefits,Teenage girls supported by benefits
+"Teenagers with health, disability issues or special needs","Teenagers with health, disability issues or special needs"
+Young offenders with community sentence and CYF history,Young offenders with community sentence and CYF history
+Young offenders with custodial sentence,Young offenders with custodial sentence
